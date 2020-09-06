@@ -26,7 +26,7 @@ public class FirstLesson {
         int a = 15;
         int b = 20;
         int c = 34;
-        int d = 4;
+        int d =4;
         int negativeNumber = -25;
         System.out.println("Задача 1: \n a = " + a + " \n b = " + b + " \n c = " + c + " \n d = " + d + "\n (a * (b + (c / d))) = " + taskOne(a,b,c,d));
         System.out.println("Задача 2: \n a = " + a + " \n b = " + b + "\n a + b = " + (a+b) + "\n Результат = " + taskTwo(a, b));
